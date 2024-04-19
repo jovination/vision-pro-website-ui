@@ -10,11 +10,10 @@
 body {
   margin: 0;
   min-width: 320px;
-  min-height: 100vh;
+  min-height: 80vh;
   background-image: url(./bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  overflow-y: hidden;
 }
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="703px" height="456px" viewBox="0 0 703 456" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M200 0L200 0L200 200L0 200L0 0L200 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="logo">
+    <g id="02">
+      <g transform="translate(0, 92.981)" id="02" fill="#FFFFFF">
+        <path d="M66.415 90.109L238.017 90.109L238.017 334.588Q230.837 355.41 205.348 355.41L66.415 355.41Q30.156 355.41 30.156 318.792L30.156 114.521Q41.644 90.109 66.415 90.109ZM109.136 159.396L109.136 285.405L159.037 285.405L159.037 159.396L109.136 159.396ZM280.379 90.468L493.984 90.109L493.984 215.041Q493.984 257.044 445.519 257.044L363.667 257.044L363.667 280.379L422.184 280.379L504.754 355.41L282.174 355.41L282.174 232.632Q282.174 193.501 318.433 193.501L412.491 193.501L412.491 168.012L321.305 168.012L280.379 90.468Z" />
+      </g>
+    </g>
+    <g id="9027057_trademark_registered_thin_icon">
+      <path d="M200 0L200 0L200 200L0 200L0 0L200 0Z" id="9027057_trademark_registered_thin_icon" fill="none" stroke="none" transform="translate(503 61)" />
+      <path d="M0 0L200 0L200 200L0 200L0 0Z" id="Rectangle" fill="none" fill-rule="evenodd" stroke="none" clip-path="url(#clip_1)" transform="translate(503 61)" />
+      <path d="M25 100C25 58.5786 58.5786 25 100 25C141.421 25 175 58.5786 175 100C175 141.421 141.421 175 100 175C58.5786 175 25 141.421 25 100Z" id="Circle" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#clip_1)" transform="translate(503 61)" />
+      <path d="M81.25 106.25L106.25 106.25C116.605 106.25 125 97.8553 125 87.5C125 77.1447 116.605 68.75 106.25 68.75L81.25 68.75L81.25 131.25" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#clip_1)" transform="translate(503 61)" />
+      <path d="M107.5 106.172L125 131.25" id="Line" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#clip_1)" transform="translate(503 61)" />
+    </g>
+  </g>
+</svg>
