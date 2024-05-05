@@ -1,0 +1,81 @@
+.wrapper{
+    width: 1020px;
+    height:800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    backdrop-filter: blur(14px) saturate(129%);
+    -webkit-backdrop-filter: blur(14px) saturate(129%);
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 45px;
+}
+.upper_wrap{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lower_wrap{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.left_seg{
+    width: 390px;
+    height: 100%;
+}
+.ui_card{
+    width: 300px;
+    height: 400px;
+    background: #fff;
+    border-radius: 45px;
+    margin-left: 45px ;
+    background-image: url(../../../public/bg_sneaker.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.right_seg{
+    width: 630px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../../public/bg-123.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 45px 0px 45px 45px;
+    overflow: hidden;
+    position: relative;
+}
+.number_icon span{
+ font-family: 'Antonio';
+ font-size: 100px;
+ letter-spacing: 0px;
+ font-weight: 500;
+ display: inline-block;
+ transform: scaleY(1);
+ color: #000;
+}
+.fashionbg{
+    width: 390px;
+    filter: contrast(125%);
+    position: absolute;
+    top: 50px;
+}
+.left_up{
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right_up{
+    width: 670px;
+}
+.logo-bg{
+    position: relative;
+    top: -50px;
+}
